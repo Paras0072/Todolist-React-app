@@ -21,7 +21,7 @@ This is a simple Todo List app built with React, using dummy API calls for CRUD 
 # Setup
 
 ## Clone the repository:
-git clone https://github.com/your-username/react-todo-list.git
+git clone https://github.com/Paras0072/Todolist-React-app.git
 
 cd react-todo-list
 
