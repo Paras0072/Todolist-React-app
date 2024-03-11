@@ -46,7 +46,7 @@ You may also see any lint errors in the console.
 * To add a new Todo, click on the "Add Todo" button.
 * To update a Todo, click on the "Update" button next to the Todo and make the necessary changes in the form.
 * To delete a Todo, click on the "Delete" button next to the Update.
-* For cheking out more lists click on the "Next" button below.
+* For checking out more lists click on the "Next" button below.
 
 ### Notes 
 
